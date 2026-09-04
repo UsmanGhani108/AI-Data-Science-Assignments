@@ -26,8 +26,8 @@ The repository may include assignments covering the following topics:
 Each assignment is maintained in a separate folder.
 ```text
 AI-Data-Science-Assignments/
-├── Assignment-01-Operators-Basics/
-├── Assignment-02-Decision-Making-Structure/
+├── Assignment-01-Operators & Basics/
+├── Assignment-02-Decision Making Structure/
 ├── Assignment-03/
 └── README.md
 ```
