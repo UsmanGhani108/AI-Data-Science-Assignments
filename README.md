@@ -7,6 +7,7 @@ The repository is organized by assignment to keep the coursework structured and 
 |  01 | Operators & Basics        | Completed |
 |  02 | Decision Making Structure | Completed |
 |  03 | Iterative Structure       | Completed |
+|  04 | To Be Added               | Upcoming  |
 ## Topics
 The repository may include assignments covering the following topics:
 * Python Programming
@@ -29,6 +30,7 @@ AI-Data-Science-Assignments/
 ├── 01. Operators & Basics (Assignments)/
 ├── 02. Decision Making Structure (Assignments)/
 ├── 03. Iterative Structure (Assignments)/
+├── 04. To Be Added/
 └── README.md
 ```
 ## Purpose
