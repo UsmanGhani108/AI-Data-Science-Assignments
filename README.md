@@ -8,6 +8,7 @@ The repository is organized by assignment to keep the coursework structured and 
 |  02 | Decision Making Structure | Completed |
 |  03 | Iterative Structure       | Completed |
 |  04 | Library Management System | Completed |
+|  05 | To Be Added               |  Pending  |
 ## Topics
 The repository may include assignments covering the following topics:
 * Python Programming
